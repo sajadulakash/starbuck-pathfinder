@@ -2,7 +2,7 @@ STARBUCKS PATHFINDER (PySpark + OSMnx + Routing)
 ================================================
 Repository: starbuck-pathfinder
 Tagline: pyspark-osmnx-routing
-
+![Alt text for the image](./ss1.png "Optional title text on hover")
 What this is
 ------------
 A Google Colab–ready project that uses PySpark for scalable data handling and
